@@ -1,11 +1,8 @@
 # CoefficientCrusaders
 
 ## Description:
-- In this repository you will find datasets and their associate Jupyter Notebooks where
-Gradient Boosting is compare Decision Trees, Linear Regression, Random Forest, and Logistic Regression. 
-The goal is to find scenarios where XGB is useful and evaluate its predictive performance against
-the other ML models
-
+- This repository contains a PowerPoint pdf about XGBoost along with jupyter notebooks for the datasets Cars93, Pokemon, and Heart Disease. These notebooks demonstrate the use of XGBoost Algorithm to create predictive modeling for both classification and regression problems.
+>>>>>>> e583700f9c141c297bf3a7787be545a0758905ea
 ## Collaborators:
 - Shane Sarabdial
 - Noelle Kiesz
