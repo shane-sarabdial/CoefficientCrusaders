@@ -1,8 +1,7 @@
 # CoefficientCrusaders
 
 ## Description:
-- This repository contains a PowerPoint pdf about XGBoost along with jupyter notebooks for the datasets Cars93, Pokemon, and Heart Disease. These notebooks demonstrate the use of XGBoost Algorithm to create predictive modeling for both classification and regression problems.
->>>>>>> e583700f9c141c297bf3a7787be545a0758905ea
+- This repository contains a PowerPoint pdf about XGBoost along with jupyter notebooks for the datasets Cars93, Pokemon, and Heart Disease. These notebooks demonstrate the use of XGBoost Algorithm to create predictive modeling for both classification and regression problems.git
 ## Collaborators:
 - Shane Sarabdial
 - Noelle Kiesz
