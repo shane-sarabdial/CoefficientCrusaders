@@ -23,3 +23,4 @@
 - [Youtube Video explanation of ROC Curve](https://www.youtube.com/watch?v=SHM_GgNI4fY)
 - [Wiki on Mean Squared Error](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Youtube Video on how XGB works](https://www.youtube.com/watch?v=OQKQHNCVf5k&t=239s)
+- [XGBoost Paramaters Tuning](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
